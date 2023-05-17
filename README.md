@@ -1,5 +1,12 @@
 # GarbageColectorCpp
 
+A Garbage Collector build for C++ from C++ by
+
+Mario Alexios Savaglio (csd4427)
+Lambros Pitsilos (csd4438)
+
+as a project for "Managed Runtime Systems" by [Foivos Zakkak](https://foivos.zakkak.net/#about)
+
 ## How to build :
 
 ```sh
@@ -9,10 +16,9 @@ make -j$(nproc)
 ## How to build for tests :
 
 ```sh
-make test -j$(nproc)
 cd Test
 run_tests.sh build
-run_tests.sh run
+run_tests.sh test
 ```
 
 # FEATURES LIST
