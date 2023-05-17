@@ -3,6 +3,7 @@
 A Garbage Collector build for C++ from C++ by
 
 Mario Alexios Savaglio (csd4427)
+
 Lambros Pitsilos (csd4438)
 
 as a project for "Managed Runtime Systems" by [Foivos Zakkak](https://foivos.zakkak.net/#about)
