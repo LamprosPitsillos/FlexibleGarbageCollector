@@ -1,0 +1,5 @@
+{
+"collection_type": "Tracing",
+"graph_traversal": "IDFS",
+"log_path": "../Data/Logs/Tracing_IDFS.csv"
+}

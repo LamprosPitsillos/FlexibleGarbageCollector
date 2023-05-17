@@ -1,0 +1,6 @@
+{
+"collection_type": "Counting",
+"destruction": "Late",
+"graph_traversal": "IDFS",
+"log_path": "../Data/Logs/Counting_Late_IDFS.csv"
+}

@@ -1,0 +1,5 @@
+{
+"collection_type": "Tracing",
+"graph_traversal": "RDFS",
+"log_path": "../Data/Logs/Tracing_RDFS.csv"
+}

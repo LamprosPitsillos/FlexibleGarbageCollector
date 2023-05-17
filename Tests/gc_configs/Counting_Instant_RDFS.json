@@ -1,0 +1,6 @@
+{
+"collection_type": "Counting",
+"destruction": "Instant",
+"graph_traversal": "RDFS",
+"log_path": "../Data/Logs/Counting_Instant_RDFS.csv"
+}

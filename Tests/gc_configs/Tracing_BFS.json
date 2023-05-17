@@ -1,0 +1,5 @@
+{
+"collection_type": "Tracing",
+"graph_traversal": "BFS",
+"log_path": "../Data/Logs/Tracing_BFS.csv"
+}

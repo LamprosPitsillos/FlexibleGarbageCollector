@@ -1,0 +1,6 @@
+{
+"collection_type": "Counting",
+"destruction": "Instant",
+"graph_traversal": "BFS",
+"log_path": "../Data/Logs/Counting_Instant_BFS.csv"
+}
